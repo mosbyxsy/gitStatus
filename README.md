@@ -1,0 +1,3 @@
+# gitStatus
+
+通过node获得git status以便于其他程序调用，为在git提交前对文件和代码进行处理提供可能

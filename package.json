@@ -1,0 +1,25 @@
+{
+  "name": "gitstatus",
+  "version": "1.0.0",
+  "description": "使用node获得git status结果",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosbyxsy/gitStatus.git"
+  },
+  "keywords": [
+    "node",
+    "git",
+    "status",
+    "gitStatus"
+  ],
+  "author": "Mosby",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mosbyxsy/gitStatus/issues"
+  },
+  "homepage": "https://github.com/mosbyxsy/gitStatus#readme"
+}
